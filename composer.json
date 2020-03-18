@@ -1,0 +1,20 @@
+{
+  "name": "kwtdesign/craft-twig-extended",
+  "description": "Extending Twig features.",
+  "version": "1.0.0",
+  "type": "craft-plugin",
+  "autoload": {
+    "psr-4": {
+      "crafttwigextended\\": "src/"
+    }
+  },
+  "support": {
+    "email": "info@coded.media"
+  },
+  "extra": {
+    "handle": "craft-twig-extended",
+    "name": "Extending Twig",
+    "developer": "Coded Media",
+    "class": "crafttwigextended\\CraftTwigExtended"
+  }
+}
