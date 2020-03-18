@@ -1,2 +1,2 @@
-# craft-autoversion
-CraftCMS assets autoversion plugin
+# craft-twig-extended
+CraftCMS twig extended
